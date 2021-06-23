@@ -1,4 +1,4 @@
-//NEW CODE WITH NEW SYNTAX FROM YOUTUBE COMMENTS
+//new syntax compared to YT tutorial
 const gulp = require('gulp');
 const sass = require('gulp-sass');
 const uglifycss = require('gulp-uglifycss');
